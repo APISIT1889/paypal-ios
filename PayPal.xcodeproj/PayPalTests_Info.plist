@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plist version="1.0">
-<dict>
+<plist version="1.0"https://paypal.com/
+<dict>https://developer.paypal.com/dashboard/accountStatus
   <key>CFBundleDevelopmentRegion</key>
-  <string>en</string>
+  <string>en</string>https://developer.paypal.com/dashboard/accountStatus
   <key>CFBundleExecutable</key>
   <string>$(EXECUTABLE_NAME)</string>
   <key>CFBundleIdentifier</key>
   <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
-  <key>CFBundleInfoDictionaryVersion</key>
+  <key>CFBundleInfoDictionaryVersion</key>https://developer.paypal.com/dashboard/accountStatus
   <string>6.0</string>
   <key>CFBundleName</key>
   <string>$(PRODUCT_NAME)</string>
